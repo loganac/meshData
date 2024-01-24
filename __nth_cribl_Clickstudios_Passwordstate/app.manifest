@@ -1,0 +1,52 @@
+{
+    "schemaVersion": "2.0.0",
+    "info": {
+        "title": "nth\u00ba Pipeline - Clickstudios Passwordstate",
+        "id": {
+            "group": null,
+            "name": "__nth_cribl_Clickstudios_Passwordstate",
+            "version": "0.0.1"
+        },
+        "author": [
+            {
+                "name": "Paul Stout",
+                "email": "solutions@nthdegree.io",
+                "company": "nth degree"
+            }
+        ],
+        "releaseDate": null,
+        "description": "Provides Splunk data description for Click Studios' Passwordstate.",
+        "classification": {
+            "intendedAudience": null,
+            "categories": [],
+            "developmentStatus": null
+        },
+        "commonInformationModels": null,
+        "license": {
+            "name": null,
+            "text": null,
+            "uri": null
+        },
+        "privacyPolicy": {
+            "name": null,
+            "text": null,
+            "uri": null
+        },
+        "releaseNotes": {
+            "name": null,
+            "text": null,
+            "uri": null
+        }
+    },
+    "dependencies": null,
+    "tasks": null,
+    "inputGroups": null,
+    "incompatibleApps": null,
+    "platformRequirements": null,
+    "supportedDeployments": [
+        "_search_head_clustering",
+        "_standalone",
+        "_distributed"
+    ],
+    "targetWorkloads": null
+}

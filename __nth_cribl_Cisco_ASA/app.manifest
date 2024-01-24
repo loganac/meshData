@@ -1,11 +1,11 @@
 {
     "schemaVersion": "2.0.0",
     "info": {
-        "title": "nth\u00ba Pipeline - Clickstudios Passwordstate",
+        "title": "nth\u00ba Pipeline - Cisco ASA",
         "id": {
             "group": null,
-            "name": "__nth_cribl_Clickstudios_Passwordstate",
-            "version": "0.5.0"
+            "name": "__nth_cribl_Cisco_ASA",
+            "version": "0.6.0"
         },
         "author": [
             {
@@ -15,7 +15,7 @@
             }
         ],
         "releaseDate": null,
-        "description": "Provides Splunk data description for Click Studios' Passwordstate.",
+        "description": "Provides Splunk data description for Cisco ASA.",
         "classification": {
             "intendedAudience": null,
             "categories": [],

@@ -1,0 +1,4 @@
+*.swp
+default.old*
+local/*
+metadata/local.meta

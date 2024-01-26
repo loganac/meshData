@@ -1,11 +1,11 @@
 {
     "schemaVersion": "2.0.0",
     "info": {
-        "title": "nth\u00ba Pipeline - Cisco ASA",
+        "title": "nth\u00ba Pipeline - Ruckus Networks",
         "id": {
             "group": null,
-            "name": "__nth_cribl_Cisco_ASA",
-            "version": "0.7.0"
+            "name": "__nth_cribl_Ruckus_Networks",
+            "version": "0.4.0"
         },
         "author": [
             {
@@ -15,7 +15,7 @@
             }
         ],
         "releaseDate": null,
-        "description": "Provides Splunk data description for Cisco ASA.",
+        "description": "Provides Splunk data description for Ruckus Networks.",
         "classification": {
             "intendedAudience": null,
             "categories": [],
